@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/05/23 13:18:50.000.479,e:\00_zemzem\00_coran\00_xe6_coran_new_admin\modelsupport_corannadmin\myfuncutils\default.txapackage=</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.459,=E:\00_ZemZem\00_Coran\00_XE6_CORAN_New_Admin\ModelSupport_CoranNewAdmin\UEditCoran\default.txvpck</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.396,e:\00_zemzem\00_coran\00_xe6_coran_new_admin\modelsupport_corannadmin\urecherche\default.txvpck=</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.447,e:\00_zemzem\00_coran\00_xe6_coran_new_admin\modelsupport_corannadmin\ufahresn\default.txvpck=</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.432,e:\00_zemzem\00_coran\00_xe6_coran_new_admin\modelsupport_corannadmin\umemoshowaya\default.txvpck=</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.408,=E:\00_ZemZem\00_Coran\00_XE6_CORAN_New_Admin\ModelSupport_CoranNewAdmin\URechAIA\default.txvpck</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.422,=E:\00_ZemZem\00_Coran\00_XE6_CORAN_New_Admin\ModelSupport_CoranNewAdmin\UMotsCORANTZ\default.txvpck</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.493,e:\00_zemzem\00_coran\00_xe6_coran_new_admin\modelsupport_corannadmin\corannadmin\default.txapackage=</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.504,=E:\00_ZemZem\00_Coran\00_XE6_CORAN_New_Admin\ModelSupport_CoranNewAdmin\CoranNAdmin\default.txvpck</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.411,e:\00_zemzem\00_coran\00_xe6_coran_new_admin\modelsupport_corannadmin\umotscorantz\default.txapackage=</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.490,=E:\00_ZemZem\00_Coran\00_XE6_CORAN_New_Admin\ModelSupport_CoranNewAdmin\MyFuncUtils\default.txvpck</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.380,e:\00_zemzem\00_coran\00_xe6_coran_new_admin\modelsupport_corannadmin\default.txvpck=</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.392,=E:\00_ZemZem\00_Coran\00_XE6_CORAN_New_Admin\ModelSupport_CoranNewAdmin\USplash\default.txvpck</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.476,=E:\00_ZemZem\00_Coran\00_XE6_CORAN_New_Admin\ModelSupport_CoranNewAdmin\UAbout\default.txvpck</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.451,=E:\00_ZemZem\00_Coran\00_XE6_CORAN_New_Admin\ModelSupport_CoranNewAdmin\UFahresN\default.txvpck</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.444,=E:\00_ZemZem\00_Coran\00_XE6_CORAN_New_Admin\ModelSupport_CoranNewAdmin\ULecCoran\default.txvpck</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.463,e:\00_zemzem\00_coran\00_xe6_coran_new_admin\modelsupport_corannadmin\udmzadm\default.txvpck=</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.388,e:\00_zemzem\00_coran\00_xe6_coran_new_admin\modelsupport_corannadmin\usplash\default.txvpck=</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.484,=E:\00_ZemZem\00_Coran\00_XE6_CORAN_New_Admin\ModelSupport_CoranNewAdmin\MyFuncUtils\default.txaPackage</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.430,=E:\00_ZemZem\00_Coran\00_XE6_CORAN_New_Admin\ModelSupport_CoranNewAdmin\UMemoShowAya\default.txaPackage</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.377,=E:\00_ZemZem\00_Coran\00_XE6_CORAN_New_Admin\ModelSupport_CoranNewAdmin\default.txaPackage</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.384,=E:\00_ZemZem\00_Coran\00_XE6_CORAN_New_Admin\ModelSupport_CoranNewAdmin\default.txvpck</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.426,e:\00_zemzem\00_coran\00_xe6_coran_new_admin\modelsupport_corannadmin\umemoshowaya\default.txapackage=</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.400,=E:\00_ZemZem\00_Coran\00_XE6_CORAN_New_Admin\ModelSupport_CoranNewAdmin\URecherche\default.txvpck</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.455,e:\00_zemzem\00_coran\00_xe6_coran_new_admin\modelsupport_corannadmin\ueditcoran\default.txvpck=</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.418,e:\00_zemzem\00_coran\00_xe6_coran_new_admin\modelsupport_corannadmin\umotscorantz\default.txvpck=</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.511,=E:\00_ZemZem\00_Coran\00_XE6_CORAN_New_Admin\ModelSupport_CoranNewAdmin\Coran\default.txvpck</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.368,e:\00_zemzem\00_coran\00_xe6_coran_new_admin\modelsupport_corannadmin\default.txapackage=</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.472,e:\00_zemzem\00_coran\00_xe6_coran_new_admin\modelsupport_corannadmin\uabout\default.txvpck=</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.416,=E:\00_ZemZem\00_Coran\00_XE6_CORAN_New_Admin\ModelSupport_CoranNewAdmin\UMotsCORANTZ\default.txaPackage</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.403,e:\00_zemzem\00_coran\00_xe6_coran_new_admin\modelsupport_corannadmin\urechaia\default.txvpck=</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.500,e:\00_zemzem\00_coran\00_xe6_coran_new_admin\modelsupport_corannadmin\corannadmin\default.txvpck=</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.308,E:\00_ZemZem\00_Coran\00_XE6_CORAN_New_Admin\CoranNewAdmin.dproj=E:\00_ZemZem\00_Coran\00_XE6_CORAN_New_Admin\CoranNAdmin.dproj</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.440,e:\00_zemzem\00_coran\00_xe6_coran_new_admin\modelsupport_corannadmin\uleccoran\default.txvpck=</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.436,=E:\00_ZemZem\00_Coran\00_XE6_CORAN_New_Admin\ModelSupport_CoranNewAdmin\UMemoShowAya\default.txvpck</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.507,e:\00_zemzem\00_coran\00_xe6_coran_new_admin\modelsupport_corannadmin\coran\default.txvpck=</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.467,=E:\00_ZemZem\00_Coran\00_XE6_CORAN_New_Admin\ModelSupport_CoranNewAdmin\UDMZadM\default.txvpck</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.486,e:\00_zemzem\00_coran\00_xe6_coran_new_admin\modelsupport_corannadmin\myfuncutils\default.txvpck=</Transaction>
+    <Transaction>2017/05/23 13:18:50.000.497,=E:\00_ZemZem\00_Coran\00_XE6_CORAN_New_Admin\ModelSupport_CoranNewAdmin\CoranNAdmin\default.txaPackage</Transaction>
+    <Transaction>2017/05/23 13:18:54.000.913,=E:\00_ZemZem\00_Coran\00_XE6_CORAN_New_Admin\ModelSupport_CoranNewAdmin\CoranNewAdmin\default.txvpck</Transaction>
+    <Transaction>2017/05/23 13:18:55.000.182,=E:\00_ZemZem\00_Coran\00_XE6_CORAN_New_Admin\ModelSupport_CoranNewAdmin\CoranNewAdmin\default.txaPackage</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="-1" SortType="1"/>
+</BorlandProject>
