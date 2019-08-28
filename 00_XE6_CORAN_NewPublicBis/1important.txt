@@ -1,0 +1,14 @@
+Le 18-04-2017
+-------------
+
+00_XE6_CORAN_Old_Admin
+    Ancienne version Admin (UEditCoran + UMotsCORANTZ) avec nouveau splash mais avec des modules superflus
+	inutilisés ou non performants
+	
+00_XE6_CORAN_New_Admin 
+	Nouvelle version Admin mais nettoyée des modules superflus inutilisés ou non performants
+    
+00_XE6_CORAN_New_Public
+	Cette version publique basée sur la vouvelle version mais sans les modules d'administration
+	(UEditCoran + UMotsCORANTZ)
+

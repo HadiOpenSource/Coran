@@ -1,0 +1,57 @@
+object FormMemoShowAya: TFormMemoShowAya
+  Left = 0
+  Top = 0
+  AutoSize = True
+  BiDiMode = bdRightToLeft
+  BorderStyle = bsNone
+  Caption = 'FormMemoShowAya'
+  ClientHeight = 318
+  ClientWidth = 443
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  ParentBiDiMode = False
+  OnActivate = FormActivate
+  PixelsPerInch = 96
+  TextHeight = 13
+  object MemoShowAya: TMemo
+    Left = 0
+    Top = 0
+    Width = 443
+    Height = 318
+    Alignment = taCenter
+    BiDiMode = bdRightToLeft
+    BorderStyle = bsNone
+    Color = clBlack
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clHighlightText
+    Font.Height = -21
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    Lines.Strings = (
+      #1576#1587#1605' '#1575#1604#1604#1607' '#1575#1604#1585#1581#1605#1606' '#1575#1604#1585#1581#1610#1605)
+    ParentBiDiMode = False
+    ParentFont = False
+    ScrollBars = ssVertical
+    TabOrder = 0
+  end
+  object BtnShowAyaQuitter: TButton
+    Left = 400
+    Top = 285
+    Width = 35
+    Height = 25
+    Caption = #1594#1604#1602
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -16
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 1
+    OnClick = BtnShowAyaQuitterClick
+  end
+end
